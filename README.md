@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712,0F172A,030712&height=250&section=header&text=ZenXveda&fontSize=80&fontColor=38BDF8&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Technical%20Creator&descAlignY=70&descSize=18&descColor=94A3B8" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=020617,0F172A,020617&height=250&section=header&text=ZenXveda&fontSize=80&fontColor=38BDF8&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Technical%20Creator&descAlignY=70&descSize=18&descColor=94A3B8" alt="Header" width="100%"/>
 </div>
 
 <p align="center">
@@ -14,6 +14,12 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=Architecting+high-performance+software.;Building+scalable+web+applications.;Crafting+immersive+digital+experiences." alt="Typing Status" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=38BDF8,A78BFA&height=2&section=footer" width="100%" alt="divider" />
 </div>
 
 <br><br>
@@ -62,7 +68,13 @@
 
 <br><br>
 
-<h2 align="center">✦ Technology Stack ✦</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=38BDF8,A78BFA&height=2&section=footer" width="100%" alt="divider" />
+</div>
+
+<br><br>
+
+<h2 align="center">✦ Core Technologies ✦</h2>
 <br>
 
 <div align="center">
@@ -73,12 +85,20 @@
 
 <br><br>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=38BDF8,A78BFA&height=2&section=footer" width="100%" alt="divider" />
+</div>
+
+<br><br>
+
 <h2 align="center">✦ GitHub Telemetry ✦</h2>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenxveda&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenxveda&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=zenxveda&hide_border=true&background=0F172A&stroke=38BDF8&ring=A78BFA&fire=10B981&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=38BDF8&card_width=800" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zenxveda&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0F172A" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenxveda&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F172A" height="160" alt="Top Languages" />
 </div>
 
 <br>
@@ -90,3 +110,16 @@
     <img alt="GitHub Contribution Matrix" src="https://raw.githubusercontent.com/zenxveda/zenxveda/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0F172A&hide_border=true" alt="Quote of the Day" />
+</div>
+
+<br><br>
+<p align="center">
+  <a href="https://github.com/zenxveda">
+    <img src="https://komarev.com/ghpvc/?username=zenxveda&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
