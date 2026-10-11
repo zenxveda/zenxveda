@@ -12,7 +12,6 @@
   <a href="https://curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-Creator_Hub-0A101F?style=for-the-badge&logo=curseforge&logoColor=F15A24" alt="CurseForge Creator Hub" /></a>
   <a href="https://www.youtube.com/@zenXveda"><img src="https://img.shields.io/badge/YouTube-Cinematics-0A101F?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube Channel" /></a>
   <a href="https://zenxveda.com"><img src="https://img.shields.io/badge/Portfolio-zenxveda.com-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Personal Portfolio" /></a>
-  <a href="https://linkedin.com/in/zenxveda"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A101F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:contact@zenxveda.com"><img src="https://img.shields.io/badge/Business-Inquiries-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Contact Email" /></a>
 </p>
 
@@ -130,8 +129,12 @@ Engineered gameplay modifications delivering tick-accurate parity, competitive c
 
 <br>
 
+<br>
+
+<h3 align="center">🐍 REAL-TIME CONTRIBUTION MATRIX</h3>
+<p align="center"><i>Visualizing live commit streaks & repository activity across the GitHub grid.</i></p>
+
 <div align="center">
-  <!-- Contribution Snake Game -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenxveda/zenxveda/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenxveda/zenxveda/output/github-snake.svg" />
