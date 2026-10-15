@@ -1,145 +1,163 @@
 <div align="center">
 
 <!-- Studio Hero Banner -->
-<a href="https://www.curseforge.com/members/zenxveda/projects">
-  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/banner.svg" width="100%" alt="ZenXveda Studio Banner" />
+<a href="https://curseforge.com/members/zenxveda/projects">
+  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/banner.svg" width="100%" alt="ZenXveda Studio — Minecraft Mod Architecture & Shader Engineering" />
 </a>
 
-<br/>
+<br><br>
 
-<!-- Animated Niche Positioning Stream -->
-<a href="https://www.curseforge.com/members/zenxveda/projects">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1300&color=22D3EE&center=true&vcenter=true&width=720&height=38&lines=Engineering+Deferred+PBR+%26+Volumetric+GLSL+Shader+Pipelines;940%2C700%2B+Downloads+Across+14%2B+Minecraft+Releases;CurseForge+Legends+%E2%80%94+Rising+Builder+(500K%2B+Tier);Architecting+Java+1.9%2B+Combat+Parity+%26+60+FPS+Optimizers;Directing+4K+In-Engine+Minecraft+Cinematics+%26+3D+Assets" alt="ZenXveda Typing Stream" />
+<!-- Verified Channels & Portals -->
+<p align="center">
+  <a href="https://curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-Creator_Hub-0A101F?style=for-the-badge&logo=curseforge&logoColor=F15A24" alt="CurseForge Creator Hub" /></a>
+  <a href="https://www.youtube.com/@zenXveda"><img src="https://img.shields.io/badge/YouTube-Cinematics-0A101F?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube Channel" /></a>
+  <a href="https://zenxveda.com"><img src="https://img.shields.io/badge/Portfolio-zenxveda.com-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Personal Portfolio" /></a>
+  <a href="mailto:contact@zenxveda.com"><img src="https://img.shields.io/badge/Business-Inquiries-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Contact Email" /></a>
+</p>
+
+<!-- Live Architecture Stream Status -->
+<a href="https://github.com/zenxveda">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=22D3EE&center=true&vCenter=true&width=800&lines=Engineering+Atmospheric+Volumetric+Shaders;Developing+High-Performance+Fabric+%26+Java+Parity+Mods;Directing+Cinematic+4K+Minecraft+Productions;Architecting+Modern+Full-Stack+Web+Platforms" alt="Engineering Stream" />
 </a>
 
-<br/>
+<br><br>
 
-<!-- Primary Studio Portals -->
-<p align="center">
-  <a href="https://www.curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-940.7K%2B%20Downloads-080C14?style=for-the-badge&logo=curseforge&logoColor=F16436&labelColor=0F172A&color=F16436" alt="CurseForge Creator Hub" /></a>
-  <a href="https://www.youtube.com/@zenXveda"><img src="https://img.shields.io/badge/YouTube-2.73K%2B%20Subs%20%E2%80%A2%204K%20Cinematics-080C14?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0F172A&color=EF4444" alt="YouTube Channel" /></a>
-  <a href="https://www.patreon.com/zenXveda"><img src="https://img.shields.io/badge/Patreon-Early%20Access%20Builds-080C14?style=for-the-badge&logo=patreon&logoColor=FF424D&labelColor=0F172A&color=A855F7" alt="Patreon" /></a>
-  <a href="https://zenxveda.com"><img src="https://img.shields.io/badge/Studio-zenxveda.com-080C14?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0F172A&color=06B6D4" alt="Portfolio" /></a>
-  <a href="mailto:contact@zenxveda.com"><img src="https://img.shields.io/badge/Contact-Business%20Inquiries-080C14?style=for-the-badge&logo=minutemailer&logoColor=22D3EE&labelColor=0F172A&color=22D3EE" alt="Business Email" /></a>
-</p>
-
-<!-- Studio Achievement & Verification Pills -->
-<p align="center">
-  <a href="https://www.curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CURSEFORGE%20LEGENDS-RISING%20BUILDER%20(500K%2B%20TIER)-080C14?style=flat-square&logo=curseforge&logoColor=A855F7&labelColor=080C14&color=7C3AED" alt="CurseForge Legends Rising Builder" /></a>
-  <a href="https://www.curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/ACTIVE%20CATALOG-14%2B%20RELEASES-080C14?style=flat-square&labelColor=080C14&color=0891B2" alt="14+ Releases" /></a>
-  <a href="https://www.curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/PIPELINE-DEFERRED%20PBR%20%E2%80%A2%20GLSL%20%E2%80%A2%20VANILLA%2B-080C14?style=flat-square&labelColor=080C14&color=06B6D4" alt="Shader Pipeline" /></a>
-  <a href="https://www.curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/TARGETS-WINDOWS%20%E2%80%A2%20ANDROID%20%E2%80%A2%20CONSOLE%20%E2%80%A2%20JAVA-080C14?style=flat-square&labelColor=080C14&color=10B981" alt="Supported Platforms" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,7C3AED,22D3EE&height=2&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,0891B2,22D3EE&height=2&section=footer" width="100%" alt="separator" />
 
 </div>
 
-## ⚡ Studio Architecture & Engineering Focus
+<br>
 
-> **ZenXveda** is a graphics programmer, systems-level Minecraft modder, and 4K cinematic creator with **940,700+ downloads** across **14+ published projects** on [CurseForge](https://www.curseforge.com/members/zenxveda/projects). Bridging real-time rendering pipelines with competitive gameplay precision, my work focuses on **Deferred PBR shaders**, **tick-accurate Java Edition parity on Bedrock**, **frame-time stabilization**, and **high-contrast visual utilities**.
+### ✦ Executive Overview
+
+> **ZenXveda** is a software engineer and technical creator specializing in **systems-level Minecraft modifications**, **atmospheric GLSL shaderpacks**, and **cinematic game production**. Bridging computational rendering with precise game feel, my work focuses on rendering pipeline optimizations, authentic Java combat mechanics, and high-fidelity visual storytelling.
 
 ```yaml
-studio: ZenXveda
-recognition:
-  - CurseForge Legends: Rising Builder Tier (500,000+ Downloads Milestone)
-  - CurseForge Legends: Forgeborn Tier (100,000+ Downloads Milestone)
-telemetry:
-  total_downloads: 940,700+
-  published_projects: 14+ Mods, Addons & Shaderpacks
-  youtube_production: 2,730+ Subscribers | 255+ Cinematic & Gameplay Videos
-engineering_domains:
-  - Real-Time Rendering: Deferred PBR, Volumetric Fog, Water Caustics & Emissive Ores
-  - Gameplay Parity: Java 1.9+ Regeneration/Saturation, F3 Debug HUD & Hardcore Utilities
-  - Frame Optimization: Entity Culling, Particle Suppression & Mobile/PC Stutter Elimination
-  - Creative Pipeline: Blockbench 3D Asset Modeling & 4K In-Engine Cinematography
+entity: ZenXveda
+focus:
+  - Atmospheric Shaderpacks & GLSL Pipelines
+  - Java Combat Parity & Core Gameplay Systems
+  - Micro-Stutter Suppression & Frame Optimization
+  - Cinematic In-Engine Storytelling & 3D Modeling
+stack: [Java, GLSL, Fabric, Blockbench, TypeScript, React, Node.js]
+platforms: [CurseForge, Modrinth, YouTube, GitHub]
 ```
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,7C3AED,22D3EE&height=2&section=header" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,0891B2,22D3EE&height=2&section=footer" width="100%" alt="separator" />
 </div>
 
-## 🔥 Flagship Releases Spotlight
+<br>
 
-| Flagship Release | Category & Target | Core Engineering & Visual Architecture | Live Reach |
+### 🌌 Visual Computing & Shader Engineering
+
+Flagship graphics modifications built to push volumetric lighting, water surface dynamics, and atmospheric scattering to peak fidelity.
+
+| Project | Focus & Architecture | Key Innovations | Distribution |
 | :--- | :--- | :--- | :---: |
-| **[ZenXveda Shaders](https://www.curseforge.com/minecraft-bedrock/texture-packs/zenxveda-shaders)** | `True PBR Shader` `Win / Android` | Full atmospheric lighting overhaul bringing Java-grade volumetric fog, dynamic shadows, physical ore emission, and metallic armor reflections to Bedrock. | [![254.2K+ Downloads](https://img.shields.io/badge/254.2K%2B-Downloads-080C14?style=flat-square&logo=curseforge&logoColor=F16436&labelColor=0F172A&color=22D3EE)](https://www.curseforge.com/minecraft-bedrock/texture-packs/zenxveda-shaders) |
-| **[Ultimate PvP by ZenXveda](https://www.curseforge.com/minecraft-bedrock/texture-packs/ultimate-pvp-by-zenxveda)** | `Competitive Pack` `FPS / HUD` | Engineered for tournament-grade clarity: low-fire overlays, transparent shields, clean hit particles, optimized hitboxes, and live durability viewers. | [![91.7K+ Downloads](https://img.shields.io/badge/91.7K%2B-Downloads-080C14?style=flat-square&logo=curseforge&logoColor=F16436&labelColor=0F172A&color=22D3EE)](https://www.curseforge.com/minecraft-bedrock/texture-packs/ultimate-pvp-by-zenxveda) |
-| **[BSL ZenXveda Shaders](https://www.curseforge.com/minecraft-bedrock/texture-packs/bsl-zenxveda-shaders)** | `Deferred Pipeline` `PBR / x16` | Performance-tuned Deferred Renderer pack featuring warm cinematic color grading, crystal-clear water caustics, specular mapping, and radiant glowing ores. | [![85.1K+ Downloads](https://img.shields.io/badge/85.1K%2B-Downloads-080C14?style=flat-square&logo=curseforge&logoColor=F16436&labelColor=0F172A&color=22D3EE)](https://www.curseforge.com/minecraft-bedrock/texture-packs/bsl-zenxveda-shaders) |
-| **[ZenXveda Dynamic Lights](https://www.curseforge.com/minecraft-bedrock/addons/zenxvedas-dynamic-lights)** | `Lighting Engine` `Zero-Lag QoL` | Real-time handheld and dropped-item illumination engine that lights up caves dynamically as you move with zero server-tick overhead. | [![74.5K+ Downloads](https://img.shields.io/badge/74.5K%2B-Downloads-080C14?style=flat-square&logo=curseforge&logoColor=F16436&labelColor=0F172A&color=22D3EE)](https://www.curseforge.com/minecraft-bedrock/addons/zenxvedas-dynamic-lights) |
+| **[ZenXveda Shaders](https://curseforge.com/members/zenxveda/projects)** | Atmospheric Lighting Engine | Volumetric clouds, real-time water caustics, and cinematic depth | <a href="https://curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-Available-F15A24?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge" /></a> |
+| **[ZenXveda Vanilla+ Shaders](https://curseforge.com/members/zenxveda/projects)** | Lightweight Shaderpack | Vanilla aesthetics with modern godrays and zero frame penalty | <a href="https://curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-Available-F15A24?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge" /></a> |
+| **[BSL ZenXveda Shaders](https://curseforge.com/members/zenxveda/projects)** | Custom Pipeline Preset | Custom tuned color grading, warm shadows, and bloom response | <a href="https://curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-Available-F15A24?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge" /></a> |
+| **[Glowing Ores Pro](https://curseforge.com/members/zenxveda/projects)** | Emissive Texture Utility | High-contrast glowing outlines streamlining underground exploration | <a href="https://curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-Available-F15A24?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge" /></a> |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,7C3AED,22D3EE&height=2&section=header" width="100%" alt="Divider" />
-</div>
+<br>
 
-## 🌌 Visual Computing & Shader Engineering Catalog
+### ⚔️ Systems Mechanics, Combat Parity & Performance
 
-*Graphics modifications built to push volumetric lighting, PBR material response, water surface dynamics, and cave visibility across desktop and mobile GPUs.*
+Engineered gameplay modifications delivering tick-accurate parity, competitive clarity, and frame rate stabilization.
 
-| Project | Rendering Architecture | Key Visual Innovations | Distribution & Telemetry |
+| Project | Domain | Engineering Highlights | Distribution |
 | :--- | :--- | :--- | :---: |
-| **[ZenXveda Shaders](https://www.curseforge.com/minecraft-bedrock/texture-packs/zenxveda-shaders)** | Atmospheric & True PBR Engine | Volumetric fog, dynamic shadows, emissive ores, shiny diamond armor (`Windows` & `Android`) | [![CurseForge 254.2K+](https://img.shields.io/badge/CurseForge-254.2K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=0891B2)](https://www.curseforge.com/minecraft-bedrock/texture-packs/zenxveda-shaders) |
-| **[BSL ZenXveda Shaders](https://www.curseforge.com/minecraft-bedrock/texture-packs/bsl-zenxveda-shaders)** | Deferred Renderer Preset | Custom color grading, specular maps, crystal-clear water & bloom response | [![CurseForge 85.1K+](https://img.shields.io/badge/CurseForge-85.1K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=0891B2)](https://www.curseforge.com/minecraft-bedrock/texture-packs/bsl-zenxveda-shaders) |
-| **[Glowing Ores Pro](https://www.curseforge.com/minecraft-bedrock/texture-packs/glowing-ores-pro)** | Emissive Texture Utility | High-contrast emissive ore outlines for instant underground cave spotting at zero FPS cost | [![CurseForge 61.7K+](https://img.shields.io/badge/CurseForge-61.7K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=0891B2)](https://www.curseforge.com/minecraft-bedrock/texture-packs/glowing-ores-pro) |
-| **[ZenXveda Vanilla+ Shaders](https://www.curseforge.com/minecraft-bedrock/texture-packs/zenxveda-vanilla-shaders)** | Lightweight Vanilla Pipeline | 3D terrain depth, glowing ores & cinematic fog at 60+ FPS with no Vibrant Visuals or DLL patches | [![CurseForge 22.5K+](https://img.shields.io/badge/CurseForge-22.5K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=0891B2)](https://www.curseforge.com/minecraft-bedrock/texture-packs/zenxveda-vanilla-shaders) |
+| **[Java Regen & Saturation](https://curseforge.com/members/zenxveda/projects)** | Mechanics Parity | Exact Java 1.9+ natural healing, exhaustion, and saturation mechanics | <a href="https://curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-Available-F15A24?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge" /></a> |
+| **[Ultimate PvP by ZenXveda](https://curseforge.com/members/zenxveda/projects)** | Competitive Interface | Low fire, clean particle visibility, transparent shields, and maximum FPS | <a href="https://curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-Available-F15A24?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge" /></a> |
+| **[High-FPS Optimizer](https://curseforge.com/members/zenxveda/projects)** | Performance Engineering | Micro-stutter reduction and entity rendering optimizations | <a href="https://curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-Available-F15A24?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge" /></a> |
+| **[ZenXveda Dynamic Lights](https://curseforge.com/members/zenxveda/projects)** | Visual QoL | Real-time handheld and dropped-item dynamic illumination | <a href="https://curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-Available-F15A24?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge" /></a> |
+| **[Debug Screen Pro](https://curseforge.com/members/zenxveda/projects)** | Developer Tooling | Java-style F3 diagnostic screen with biome, coords, and light levels | <a href="https://curseforge.com/members/zenxveda/projects"><img src="https://img.shields.io/badge/CurseForge-Available-F15A24?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge" /></a> |
 
-## ⚔️ Gameplay Systems, Java Parity & Performance Catalog
-
-*Systems-level addons and utilities delivering tick-accurate Java mechanics, real-time combat HUDs, and frame-rate stabilization.*
-
-| Project | Domain | Engineering Highlights | Distribution & Telemetry |
-| :--- | :--- | :--- | :---: |
-| **[Ultimate PvP by ZenXveda](https://www.curseforge.com/minecraft-bedrock/texture-packs/ultimate-pvp-by-zenxveda)** | Competitive Interface | Low fire, transparent shields, clean particles, minimal HUD overlays & durability tracking | [![CurseForge 91.7K+](https://img.shields.io/badge/CurseForge-91.7K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=7C3AED)](https://www.curseforge.com/minecraft-bedrock/texture-packs/ultimate-pvp-by-zenxveda) |
-| **[ZenXveda Dynamic Lights](https://www.curseforge.com/minecraft-bedrock/addons/zenxvedas-dynamic-lights)** | Real-Time Illumination | Smooth handheld & dropped-item dynamic lighting with zero tick latency | [![CurseForge 74.5K+](https://img.shields.io/badge/CurseForge-74.5K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=7C3AED)](https://www.curseforge.com/minecraft-bedrock/addons/zenxvedas-dynamic-lights) |
-| **[Debug Screen Pro](https://www.curseforge.com/minecraft-bedrock/addons/debug-screen-pro)** | Developer Diagnostics | Classic Java Edition F3 screen on Bedrock with live coordinates, FPS counter, biome & light levels | [![CurseForge 58.4K+](https://img.shields.io/badge/CurseForge-58.4K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=7C3AED)](https://www.curseforge.com/minecraft-bedrock/addons/debug-screen-pro) |
-| **[ZenXveda Health Indicator Bar](https://www.curseforge.com/minecraft-bedrock/addons/zenxveda-health-indicator-bar)** | Combat Telemetry HUD | Lag-free, real-time health bars rendered dynamically above players and mobs | [![CurseForge 42.2K+](https://img.shields.io/badge/CurseForge-42.2K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=7C3AED)](https://www.curseforge.com/minecraft-bedrock/addons/zenxveda-health-indicator-bar) |
-| **[ZenXveda Auto Totem](https://www.curseforge.com/minecraft-bedrock/addons/zenxveda-auto-totem)** | Hardcore Survival Utility | Instant offhand Totem auto-refills, survival stat tracking & craftable totems | [![CurseForge 28.1K+](https://img.shields.io/badge/CurseForge-28.1K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=7C3AED)](https://www.curseforge.com/minecraft-bedrock/addons/zenxveda-auto-totem) |
-| **[ZenXveda High-FPS Optimizer](https://www.curseforge.com/minecraft-bedrock/addons/zenxveda-high-fps-optimizer)** | Performance Engineering | Suppresses micro-stutters, mobile overheating & XP-farm entity rendering crashes | [![CurseForge 9.1K+](https://img.shields.io/badge/CurseForge-9.1K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=7C3AED)](https://www.curseforge.com/minecraft-bedrock/addons/zenxveda-high-fps-optimizer) |
-| **[Potions Extended](https://www.curseforge.com/minecraft-bedrock/addons/potions-extended)** | Survival Alchemy Engine | Unlocks 156+ custom potions, 15 unobtainable status effects & tipped arrows in survival brewing | [![CurseForge 6.3K+](https://img.shields.io/badge/CurseForge-6.3K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=7C3AED)](https://www.curseforge.com/minecraft-bedrock/addons/potions-extended) |
-| **[ZenXveda Essentials](https://www.curseforge.com/minecraft-bedrock/addons/zenxveda-essentials)** | All-in-One QoL Companion | Color-coded armor durability alerts, Java-style health regen HUD & PvP survival utilities | [![CurseForge 3.8K+](https://img.shields.io/badge/CurseForge-3.8K%2B-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=7C3AED)](https://www.curseforge.com/minecraft-bedrock/addons/zenxveda-essentials) |
-| **[Java Regeneration & Saturation](https://www.curseforge.com/minecraft-bedrock/addons/java-regeneration-and-saturation/files/all)** | Core Mechanics Parity | Exact Java 1.9+ natural healing, exhaustion & saturation formulas with custom HUD animations | [![CurseForge Active](https://img.shields.io/badge/CurseForge-Active%20Release-080C14?style=flat-square&logo=curseforge&logoColor=F16436&color=7C3AED)](https://www.curseforge.com/minecraft-bedrock/addons/java-regeneration-and-saturation/files/all) |
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,7C3AED,22D3EE&height=2&section=header" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,0891B2,22D3EE&height=2&section=footer" width="100%" alt="separator" />
 </div>
 
-## 🛠️ Technical Toolchain & Domain Allocation
+<br>
 
-| Domain Pillar | Core Stack & Tooling | Pipeline Allocation | Visual Icons |
-| :--- | :--- | :---: | :---: |
-| **🌌 Shader & Graphics Pipeline** | `GLSL` • `Deferred Rendering` • `True PBR` • `Volumetric Lighting` | `██████████░░░░` **45%** | <img src="https://skillicons.dev/icons?i=opengl,c,vscode&theme=dark" height="28" alt="Graphics Stack" /> |
-| **⚔️ Modding & Gameplay Systems** | `Java` • `Fabric` • `Bedrock Script API` • `JSON Schemas` | `███████░░░░░░░` **30%** | <img src="https://skillicons.dev/icons?i=java,git,githubactions&theme=dark" height="28" alt="Modding Stack" /> |
-| **🌐 Web & Tooling Infrastructure** | `TypeScript` • `React` • `Node.js` • `MongoDB` | `███░░░░░░░░░░░` **15%** | <img src="https://skillicons.dev/icons?i=ts,react,nodejs,mongodb&theme=dark" height="28" alt="Web Stack" /> |
-| **🎬 3D Assets & 4K Cinematics** | `Blockbench` • `Premiere Pro` • `After Effects` • `Photoshop` | `██░░░░░░░░░░░░` **10%** | <img src="https://skillicons.dev/icons?i=pr,ae,ps&theme=dark" height="28" alt="Creative Stack" /> |
+### 🛠️ Technical Toolchain & Creative Arsenal
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>🎮 Game & Modding</b><br><br>
+      <img src="https://skillicons.dev/icons?i=java,git,githubactions,vscode&theme=dark" alt="Game Dev Tech" /><br><br>
+      <code>Java • Fabric • GLSL • Blockbench</code>
+    </td>
+    <td width="33%" align="center">
+      <b>🌐 Web & Systems</b><br><br>
+      <img src="https://skillicons.dev/icons?i=ts,react,nodejs,mongodb&theme=dark" alt="Web Dev Tech" /><br><br>
+      <code>TypeScript • React • Node.js • Mongo</code>
+    </td>
+    <td width="33%" align="center">
+      <b>🎬 Cinematics & Media</b><br><br>
+      <img src="https://skillicons.dev/icons?i=pr,ae,ps&theme=dark" alt="Creative Tech" /><br><br>
+      <code>Premiere Pro • After Effects • Photoshop</code>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,7C3AED,22D3EE&height=2&section=header" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,0891B2,22D3EE&height=2&section=footer" width="100%" alt="separator" />
 </div>
 
-## 📈 Live Studio Telemetry & Contribution Matrix
+<br>
+
+### 📈 Real-Time Engineering Telemetry
 
 <div align="center">
-
   <!-- GitHub Streak Counter -->
-  <a href="https://github.com/zenxveda">
-    <img src="https://streak-stats.demolab.com/?user=zenxveda&hide_border=true&background=080C14&stroke=22D3EE&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&numbers=FFFFFF&labels=94A3B8" alt="ZenXveda GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=zenxveda&hide_border=true&background=080C14&stroke=22D3EE&ring=0891B2&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=840" alt="GitHub Streak Stats" />
+  
+  <br><br>
 
-  <br/><br/>
+  <!-- GitHub Activity & Language Distribution -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zenxveda&show_icons=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&bg_color=080C14" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenxveda&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=080C14" height="160" alt="Top Languages" />
+</div>
 
-  <!-- Contribution Snake Matrix -->
+<br>
+
+<br>
+
+<h3 align="center">🐍 REAL-TIME CONTRIBUTION MATRIX</h3>
+<p align="center"><i>Visualizing live commit streaks & repository activity across the GitHub grid.</i></p>
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenxveda/zenxveda/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenxveda/zenxveda/output/github-contribution-grid-snake.svg" />
-    <img alt="ZenXveda Contribution Matrix" src="https://raw.githubusercontent.com/zenxveda/zenxveda/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenxveda/zenxveda/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenxveda/zenxveda/output/github-snake.svg" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/zenxveda/zenxveda/output/github-snake-dark.svg" width="100%" />
   </picture>
+</div>
 
-  <br/><br/>
+<br>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=080C14&title_color=22D3EE&text_color=94A3B8&icon_color=22D3EE&hide_border=true" alt="Daily Engineering Quote" />
+</div>
+
+<br><br>
+
+<!-- Footer Radar & Attribution -->
+<div align="center">
   <p align="center">
-    <code>ZENXVEDA STUDIO // SHADER ENGINEERING • SYSTEMS MODDING • 4K CINEMATICS</code>
+    <a href="https://github.com/zenxveda">
+      <img src="https://komarev.com/ghpvc/?username=zenxveda&color=22D3EE&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors" />
+    </a>
   </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,7C3AED,22D3EE&height=2&section=header" width="100%" alt="Footer Divider" />
-
+  <p align="center">
+    <sub>Designed & Maintained by <b>ZenXveda</b> • Built with open-source community passion.</sub>
+  </p>
 </div>

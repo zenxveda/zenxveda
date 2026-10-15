@@ -1,164 +1,138 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="100%" height="380" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="320" fill="none">
   <defs>
-    <!-- Deep obsidian background -->
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#05080F"/>
-      <stop offset="50%" stop-color="#0A0F1A"/>
-      <stop offset="100%" stop-color="#050810"/>
+    <!-- Background Gradient -->
+    <linearGradient id="studio-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C14"/>
+      <stop offset="40%" stop-color="#0A111E"/>
+      <stop offset="80%" stop-color="#0D192B"/>
+      <stop offset="100%" stop-color="#050811"/>
     </linearGradient>
 
-    <!-- Cyan brand gradient -->
-    <linearGradient id="brand-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Diamond Cyan Gradient -->
+    <linearGradient id="cyan-primary" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#06B6D4"/>
       <stop offset="50%" stop-color="#22D3EE"/>
       <stop offset="100%" stop-color="#67E8F9"/>
     </linearGradient>
 
-    <!-- Purple accent gradient -->
-    <linearGradient id="brand-purple" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#A78BFA"/>
+    <!-- Emerald / Parity Gradient -->
+    <linearGradient id="emerald-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#34D399"/>
     </linearGradient>
 
-    <!-- Pixel grid pattern -->
-    <pattern id="pixel-grid" width="16" height="16" patternUnits="userSpaceOnUse">
-      <rect width="16" height="16" fill="none"/>
-      <rect x="0" y="0" width="1" height="1" fill="#22D3EE" opacity="0.04"/>
-      <rect x="8" y="8" width="1" height="1" fill="#7C3AED" opacity="0.03"/>
-    </pattern>
+    <!-- Border Gradient -->
+    <linearGradient id="frame-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E7490"/>
+      <stop offset="30%" stop-color="#1E293B"/>
+      <stop offset="70%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0891B2"/>
+    </linearGradient>
 
-    <!-- Glow filters -->
-    <filter id="title-glow" x="-20%" y="-30%" width="140%" height="160%">
-      <feGaussianBlur stdDeviation="8" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <!-- Subtle Glow Filter -->
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
-    <filter id="soft" x="-10%" y="-10%" width="120%" height="120%">
-      <feGaussianBlur stdDeviation="3" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+
+    <filter id="accent-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
-    <filter id="orb" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="30" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+
+    <!-- Grid Pattern -->
+    <pattern id="pixel-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.75" opacity="0.4"/>
+      <rect x="0" y="0" width="1.5" height="1.5" fill="#22D3EE" opacity="0.25"/>
+    </pattern>
   </defs>
 
   <style>
-    @keyframes twinkle { 0%,100%{opacity:0.1} 50%{opacity:0.8} }
-    @keyframes pulse { 0%,100%{opacity:0.6} 50%{opacity:1} }
-    .pixel { font-family: 'Courier New', 'JetBrains Mono', monospace; }
-    .brand { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; }
-    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; font-weight: 600; }
-    .star { animation: twinkle 3s ease-in-out infinite; }
+    .studio-brand {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 900;
+      letter-spacing: 12px;
+    }
+    .mono-label {
+      font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+      font-weight: 600;
+      letter-spacing: 2.5px;
+    }
+    .sub-tagline {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 400;
+      letter-spacing: 4px;
+    }
   </style>
 
-  <!-- Canvas -->
-  <rect width="1200" height="380" rx="16" fill="url(#bg)"/>
-  <rect width="1200" height="380" rx="16" fill="url(#pixel-grid)"/>
+  <!-- Canvas Frame -->
+  <rect x="6" y="6" width="1188" height="308" rx="20" fill="url(#studio-bg)"/>
+  
+  <!-- Subtle Grid Overlay -->
+  <rect x="6" y="6" width="1188" height="308" rx="20" fill="url(#pixel-grid)"/>
 
-  <!-- Atmospheric orbs -->
-  <circle cx="200" cy="120" r="160" fill="#0E7490" opacity="0.03" filter="url(#orb)"/>
-  <circle cx="1000" cy="260" r="140" fill="#7C3AED" opacity="0.025" filter="url(#orb)"/>
+  <!-- Glowing Radial Accent in Center -->
+  <circle cx="600" cy="160" r="240" fill="#0E7490" opacity="0.08" filter="url(#accent-glow)"/>
 
-  <!-- Scattered pixel blocks (Minecraft ore/deepslate texture feel) -->
-  <g opacity="0.06" fill="#22D3EE">
-    <!-- Top scattered pixels -->
-    <rect x="80" y="40" width="8" height="8"/><rect x="82" y="50" width="4" height="4"/>
-    <rect x="240" y="30" width="6" height="6"/><rect x="248" y="34" width="4" height="4"/>
-    <rect x="420" y="50" width="8" height="8"/>
-    <rect x="760" y="35" width="6" height="6"/><rect x="768" y="40" width="4" height="4"/>
-    <rect x="940" y="45" width="8" height="8"/>
-    <rect x="1100" y="30" width="6" height="6"/>
-    <!-- Bottom scattered pixels -->
-    <rect x="120" y="330" width="6" height="6"/><rect x="128" y="334" width="4" height="4"/>
-    <rect x="350" y="340" width="8" height="8"/>
-    <rect x="560" y="345" width="6" height="6"/>
-    <rect x="820" y="335" width="8" height="8"/><rect x="830" y="340" width="4" height="4"/>
-    <rect x="1050" y="340" width="6" height="6"/>
-  </g>
-  <g opacity="0.04" fill="#7C3AED">
-    <rect x="160" y="55" width="4" height="4"/>
-    <rect x="500" y="40" width="4" height="4"/>
-    <rect x="680" y="50" width="4" height="4"/>
-    <rect x="1020" y="55" width="4" height="4"/>
-    <rect x="280" y="345" width="4" height="4"/>
-    <rect x="700" y="340" width="4" height="4"/>
-    <rect x="950" y="345" width="4" height="4"/>
+  <!-- Crisp Studio Border -->
+  <rect x="6" y="6" width="1188" height="308" rx="20" stroke="url(#frame-border)" stroke-width="2" fill="none"/>
+  
+  <!-- Inner Blueprint Framing Lines -->
+  <rect x="18" y="18" width="1164" height="284" rx="14" stroke="#164E63" stroke-width="1" stroke-dasharray="6 6" fill="none" opacity="0.35"/>
+
+  <!-- Top Studio Metadata Bar -->
+  <g transform="translate(60, 52)">
+    <!-- Active Status Pill -->
+    <rect x="0" y="-14" width="130" height="24" rx="12" fill="#060B14" stroke="#164E63" stroke-width="1"/>
+    <circle cx="16" cy="-2" r="4" fill="#22D3EE"/>
+    <text x="28" y="2" fill="#22D3EE" font-size="10" class="mono-label">STUDIO LIVE</text>
+
+    <!-- Version & Focus Tag (Right Aligned in Header) -->
+    <text x="1080" y="2" text-anchor="end" fill="#64748B" font-size="11" class="mono-label">
+      MINECRAFT // GLSL • FABRIC • BEDROCK PARITY
+    </text>
   </g>
 
-  <!-- Star field -->
-  <g>
-    <circle cx="95" cy="80" r="1" fill="#E2E8F0" class="star" opacity="0.2"/>
-    <circle cx="300" cy="65" r="0.8" fill="#22D3EE" class="star" style="animation-delay:-1s" opacity="0.3"/>
-    <circle cx="520" cy="42" r="1.2" fill="#E2E8F0" class="star" style="animation-delay:-2s" opacity="0.2"/>
-    <circle cx="680" cy="75" r="0.7" fill="#C4B5FD" class="star" style="animation-delay:-0.5s" opacity="0.25"/>
-    <circle cx="850" cy="55" r="1" fill="#22D3EE" class="star" style="animation-delay:-1.5s" opacity="0.2"/>
-    <circle cx="1060" cy="70" r="0.9" fill="#E2E8F0" class="star" style="animation-delay:-2.5s" opacity="0.15"/>
-    <circle cx="170" cy="310" r="0.8" fill="#C4B5FD" class="star" style="animation-delay:-0.8s" opacity="0.2"/>
-    <circle cx="460" cy="325" r="1" fill="#22D3EE" class="star" style="animation-delay:-1.8s" opacity="0.15"/>
-    <circle cx="750" cy="315" r="0.7" fill="#E2E8F0" class="star" style="animation-delay:-2.2s" opacity="0.2"/>
-    <circle cx="1000" cy="320" r="1.1" fill="#22D3EE" class="star" style="animation-delay:-0.3s" opacity="0.15"/>
+  <!-- Primary Studio Identity Title -->
+  <g transform="translate(600, 155)">
+    <!-- Ambient Shadow / Soft Glow -->
+    <text x="0" y="0" text-anchor="middle" fill="#0891B2" font-size="76" class="studio-brand" opacity="0.5" filter="url(#soft-glow)">
+      ZENXVEDA
+    </text>
+    <!-- Crisp Foreground Text with Gradient -->
+    <text x="0" y="0" text-anchor="middle" fill="url(#cyan-primary)" font-size="76" class="studio-brand">
+      ZENXVEDA
+    </text>
   </g>
 
-  <!-- Pixel-art corner brackets (gives that retro-GUI / terminal feel) -->
-  <g stroke="#164E63" stroke-width="2" fill="none" opacity="0.3">
-    <!-- Top-left bracket -->
-    <path d="M 30 30 L 30 16 L 44 16"/>
-    <!-- Top-right bracket -->
-    <path d="M 1170 30 L 1170 16 L 1156 16"/>
-    <!-- Bottom-left bracket -->
-    <path d="M 30 350 L 30 364 L 44 364"/>
-    <!-- Bottom-right bracket -->
-    <path d="M 1170 350 L 1170 364 L 1156 364"/>
-  </g>
-
-  <!-- Brand Identity Title -->
-  <g transform="translate(600, 130)">
-    <text x="0" y="0" text-anchor="middle" fill="#0891B2" font-size="80" class="brand" letter-spacing="16" opacity="0.3" filter="url(#title-glow)">ZENXVEDA</text>
-    <text x="0" y="0" text-anchor="middle" fill="url(#brand-cyan)" font-size="80" class="brand" letter-spacing="16" filter="url(#soft)">ZENXVEDA</text>
-  </g>
-
-  <!-- Brand Tagline -->
-  <text x="600" y="172" text-anchor="middle" fill="#64748B" font-size="12" class="mono" letter-spacing="6">
-    GAME DEVELOPER  <tspan fill="#1E293B">│</tspan>  SHADER ENGINEER  <tspan fill="#1E293B">│</tspan>  CONTENT CREATOR
+  <!-- Studio Subtitle -->
+  <text x="600" y="198" text-anchor="middle" fill="#94A3B8" font-size="13" class="sub-tagline">
+    MOD ARCHITECTURE  <tspan fill="#06B6D4">|</tspan>  SHADER ENGINEERING  <tspan fill="#06B6D4">|</tspan>  CINEMATIC PRODUCTION
   </text>
 
-  <!-- Horizontal thin accent line -->
-  <line x1="350" y1="195" x2="850" y2="195" stroke="url(#brand-cyan)" stroke-width="0.5" opacity="0.15"/>
-
-  <!-- Brand Story Subtitle -->
-  <text x="600" y="225" text-anchor="middle" fill="#475569" font-size="11" class="mono" letter-spacing="1.5">
-    Building immersive Minecraft experiences through code, light, and pixels.
-  </text>
-
-  <!-- Bottom Capability Ticker -->
-  <g transform="translate(600, 280)">
-    <rect x="-400" y="-16" width="800" height="32" rx="8" fill="#0A0F1A" stroke="#1E293B" stroke-width="1"/>
-
-    <g transform="translate(-300, 0)">
-      <rect x="-8" y="-8" width="16" height="16" rx="3" fill="#0E7490" opacity="0.3"/>
-      <rect x="-4" y="-4" width="8" height="8" rx="1" fill="#22D3EE" opacity="0.6"/>
-      <text x="16" y="4" fill="#94A3B8" font-size="10" class="mono">GLSL Shaders</text>
-    </g>
-
-    <g transform="translate(-120, 0)">
-      <rect x="-8" y="-8" width="16" height="16" rx="3" fill="#5B21B6" opacity="0.3"/>
-      <rect x="-4" y="-4" width="8" height="8" rx="1" fill="#A78BFA" opacity="0.6"/>
-      <text x="16" y="4" fill="#94A3B8" font-size="10" class="mono">Fabric Mods</text>
-    </g>
-
-    <g transform="translate(60, 0)">
-      <rect x="-8" y="-8" width="16" height="16" rx="3" fill="#065F46" opacity="0.3"/>
-      <rect x="-4" y="-4" width="8" height="8" rx="1" fill="#34D399" opacity="0.6"/>
-      <text x="16" y="4" fill="#94A3B8" font-size="10" class="mono">Java Parity</text>
-    </g>
-
-    <g transform="translate(230, 0)">
-      <rect x="-8" y="-8" width="16" height="16" rx="3" fill="#92400E" opacity="0.3"/>
-      <rect x="-4" y="-4" width="8" height="8" rx="1" fill="#FBBF24" opacity="0.6"/>
-      <text x="16" y="4" fill="#94A3B8" font-size="10" class="mono">4K Cinematics</text>
-    </g>
+  <!-- Studio Metrics / Capability Ticker Bar (Bottom) -->
+  <g transform="translate(600, 260)">
+    <!-- Background Card -->
+    <rect x="-380" y="-18" width="760" height="34" rx="17" fill="#060B14" stroke="#1E293B" stroke-width="1"/>
+    
+    <!-- Capability Ticker Items -->
+    <text x="-280" y="4" text-anchor="middle" fill="#CBD5E1" font-size="11" class="mono-label">
+      <tspan fill="#22D3EE">◆</tspan> 15+ RELEASES
+    </text>
+    <text x="-90" y="4" text-anchor="middle" fill="#CBD5E1" font-size="11" class="mono-label">
+      <tspan fill="#22D3EE">◆</tspan> VOLUMETRIC GLSL
+    </text>
+    <text x="100" y="4" text-anchor="middle" fill="#CBD5E1" font-size="11" class="mono-label">
+      <tspan fill="#22D3EE">◆</tspan> COMBAT PARITY
+    </text>
+    <text x="280" y="4" text-anchor="middle" fill="#CBD5E1" font-size="11" class="mono-label">
+      <tspan fill="#22D3EE">◆</tspan> 4K CINEMATICS
+    </text>
   </g>
-
-  <!-- Version / build tag (bottom-right) -->
-  <text x="1160" y="362" text-anchor="end" fill="#1E293B" font-size="9" class="mono">v2.0 // est. 2023</text>
 </svg>
