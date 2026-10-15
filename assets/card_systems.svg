@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 280" width="100%" height="280" fill="none">
+  <defs>
+    <linearGradient id="sys-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070414"/>
+      <stop offset="50%" stop-color="#120A24"/>
+      <stop offset="100%" stop-color="#04020D"/>
+    </linearGradient>
+    <linearGradient id="sys-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#4C1D95" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title { font-family: 'JetBrains Mono', 'Courier New', monospace; font-weight: 800; }
+    .body { font-family: 'JetBrains Mono', 'Courier New', monospace; font-weight: 500; }
+  </style>
+
+  <!-- Card Frame -->
+  <rect x="2" y="2" width="456" height="276" rx="8" fill="url(#sys-bg)" stroke="url(#sys-border)" stroke-width="1.5"/>
+  <rect x="6" y="6" width="448" height="268" rx="6" stroke="#4C1D95" stroke-width="1" stroke-dasharray="4 4" fill="none" opacity="0.3"/>
+
+  <!-- Card Header -->
+  <g transform="translate(20, 24)">
+    <!-- Icon Box -->
+    <rect x="0" y="0" width="36" height="36" rx="4" fill="#2E1065" stroke="#A855F7" stroke-width="1"/>
+    <text x="18" y="24" text-anchor="middle" fill="#A855F7" font-size="18">⚔️</text>
+    
+    <!-- Title & Domain -->
+    <text x="46" y="18" fill="#F8FAFC" font-size="14" class="title">SYSTEMS &amp; PARITY</text>
+    <text x="46" y="32" fill="#A855F7" font-size="9.5" class="body">Java Mechanics • Combat Clarity • FPS Optimization</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="20" y1="74" x2="440" y2="74" stroke="#4C1D95" stroke-width="1" opacity="0.4"/>
+
+  <!-- Project Rows -->
+  <g transform="translate(20, 94)">
+    <!-- Row 1: Ultimate PvP -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="-8" width="6" height="6" fill="#A855F7"/>
+      <text x="14" y="-2" fill="#F8FAFC" font-size="11" class="title">Ultimate PvP by ZenXveda</text>
+      <text x="420" y="-2" text-anchor="end" fill="#A855F7" font-size="10" class="title">91.7K+</text>
+      <text x="14" y="10" fill="#64748B" font-size="9" class="body">Low Fire, Clean Particles, Transparent Shields</text>
+    </g>
+
+    <!-- Row 2: Dynamic Lights -->
+    <g transform="translate(0, 32)">
+      <rect x="0" y="-8" width="6" height="6" fill="#C084FC"/>
+      <text x="14" y="-2" fill="#F8FAFC" font-size="11" class="title">ZenXveda Dynamic Lights</text>
+      <text x="420" y="-2" text-anchor="end" fill="#C084FC" font-size="10" class="title">74.5K+</text>
+      <text x="14" y="10" fill="#64748B" font-size="9" class="body">Real-Time Handheld Lighting with Zero Server Lag</text>
+    </g>
+
+    <!-- Row 3: Debug Screen Pro -->
+    <g transform="translate(0, 64)">
+      <rect x="0" y="-8" width="6" height="6" fill="#7C3AED"/>
+      <text x="14" y="-2" fill="#F8FAFC" font-size="11" class="title">Debug Screen Pro (F3)</text>
+      <text x="420" y="-2" text-anchor="end" fill="#7C3AED" font-size="10" class="title">58.4K+</text>
+      <text x="14" y="10" fill="#64748B" font-size="9" class="body">Classic Java Edition F3 Diagnostic HUD on Bedrock</text>
+    </g>
+
+    <!-- Row 4: Auto Totem & Essentials -->
+    <g transform="translate(0, 96)">
+      <rect x="0" y="-8" width="6" height="6" fill="#10B981"/>
+      <text x="14" y="-2" fill="#F8FAFC" font-size="11" class="title">Auto Totem &amp; Parity Utils</text>
+      <text x="420" y="-2" text-anchor="end" fill="#10B981" font-size="10" class="title">32.0K+</text>
+      <text x="14" y="10" fill="#64748B" font-size="9" class="body">Instant Offhand Totem Refills &amp; Exact Java Parity</text>
+    </g>
+  </g>
+
+  <!-- Bottom CTA Button (Minecraft GUI Style) -->
+  <g transform="translate(20, 234)">
+    <rect x="0" y="0" width="420" height="28" rx="4" fill="#170B2C" stroke="#4C1D95" stroke-width="1"/>
+    <rect x="2" y="2" width="416" height="24" rx="3" fill="#0C0517" stroke="#2E1065" stroke-width="0.8"/>
+    <text x="210" y="17" text-anchor="middle" fill="#A855F7" font-size="10" class="title">
+      VIEW ALL SYSTEMS &amp; PARITY MODS →
+    </text>
+  </g>
+</svg>
