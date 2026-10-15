@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/zenxveda">
-  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/banner.svg" width="100%" alt="ZenXveda — Game Developer • Shader Engineer • Content Creator" />
+  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/banner.svg?v=restore" width="100%" alt="ZenXveda — Game Developer • Shader Engineer • Content Creator" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
   <a href="mailto:contact@zenxveda.com"><img src="https://img.shields.io/badge/Email-Contact-080C14?style=for-the-badge&logo=minutemailer&logoColor=22D3EE&labelColor=0F172A&color=22D3EE" alt="Contact" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/divider.svg?v=restore" width="100%" alt="" />
 
 </div>
 
@@ -63,7 +63,7 @@ I care about three things: **visual fidelity**, **performance**, and **giving ba
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/divider.svg?v=restore" width="100%" alt="" />
 </div>
 
 <br/>
@@ -153,7 +153,7 @@ I reverse-engineer Java Edition mechanics and rebuild them tick-for-tick on Bedr
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/divider.svg?v=restore" width="100%" alt="" />
 </div>
 
 <br/>
@@ -202,7 +202,7 @@ I reverse-engineer Java Edition mechanics and rebuild them tick-for-tick on Bedr
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/divider.svg?v=restore" width="100%" alt="" />
 </div>
 
 <br/>
@@ -237,7 +237,7 @@ I reverse-engineer Java Edition mechanics and rebuild them tick-for-tick on Bedr
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/zenxveda/zenxveda/main/assets/divider.svg?v=restore" width="100%" alt="" />
 
   <br/>
 
